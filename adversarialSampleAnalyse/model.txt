@@ -1,0 +1,15 @@
+first:
+    RNNAttention
+    FastText
+    TextCnn
+    textRCNN
+    LSTM
+
+
+
+second:
+    RNNAttention
+    CNN
+    LSTM
+    TextRCnnModel
+    FastText
